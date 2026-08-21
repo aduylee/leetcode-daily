@@ -1,10 +1,10 @@
-# 🧩 LeetCode Daily Practice
+# 🧩 LeetCode Daily Solutions
 
-Nơi lưu trữ lời giải các bài tập trên [LeetCode](https://leetcode.com/) bằng ngôn ngữ **Python 3**. Dự án được phân loại chi tiết theo mức độ khó và cập nhật thường xuyên.
+A structured repository containing my solutions to [LeetCode](https://leetcode.com/) problems, implemented in **Python 3**. Solutions are categorized by difficulty and include complexity analysis and test cases.
 
 ---
 
-## 📂 Cấu trúc Repository
+## 📂 Repository Structure
 
 ```text
 leetcode-daily/
