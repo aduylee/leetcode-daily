@@ -15,6 +15,8 @@ leetcode-daily/
 │   └── 0003-longest-substring-without-repeating-characters.py
 └── hard/
     └── 0004-median-of-two-sorted-arrays.py
+
+
 ## 📊 Progress Tracker
 
 | # | Title | Difficulty | Data Structure / Algorithm | Solution |
