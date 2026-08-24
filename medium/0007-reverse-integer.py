@@ -23,3 +23,4 @@ if __name__ == "__main__":
     print(sol.reverse(123))   # Output: 321
     print(sol.reverse(-123))  # Output: -321
     print(sol.reverse(120))   # Output: 21
+    
