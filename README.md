@@ -24,14 +24,16 @@ Each solution focuses on writing **clean, readable, and efficient code**, togeth
 leetcode-daily/
 │
 ├── easy/
-│   └── 0001-two-sum.py
+│   ├── 0001-two-sum.py
+│   └── 0009-palindrome-number.py
 │
 ├── medium/
 │   ├── 0002-add-two-numbers.py
 │   ├── 0003-longest-substring-without-repeating-characters.py
 │   ├── 0005-longest-palindromic-substring.py
 │   ├── 0006-zigzag-conversion.py
-│   └── 0007-reverse-integer.py
+│   ├── 0007-reverse-integer.py
+│   └── 0008-string-to-integer-atoi.py
 │
 ├── hard/
 │   └── 0004-median-of-two-sorted-arrays.py
