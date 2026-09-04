@@ -37,7 +37,11 @@ leetcode-daily/
 │   ├── 0007-reverse-integer.py
 │   ├── 0008-string-to-integer-atoi.py
 │   ├── 0011-container-with-most-water.py
-│   └── 0012-integer-to-roman.py
+│   ├── 0012-integer-to-roman.py
+│   ├── 0015-3sum.py
+│   ├── 0016-3sum-closest.py
+│   ├── 0017-letter-combinations-of-a-phone-number.py
+│   └── 0018-4sum.py
 │
 ├── hard/
 │   ├── 0004-median-of-two-sorted-arrays.py
