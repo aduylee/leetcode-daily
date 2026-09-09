@@ -26,4 +26,4 @@ class Solution:
 if __name__ == "__main__":
     sol = Solution()
     print(sol.generateParenthesis(3))  # Output: ["((()))","(()())","(())()","()(())","()()()"]
-    print(sol.generateParenthesis(1))  # Output: ["()"]
+    print(sol.generateParenthesis(1))  # Output: ["()"]git pull --rebase origin main
