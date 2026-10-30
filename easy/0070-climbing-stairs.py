@@ -26,3 +26,4 @@ if __name__ == "__main__":
 
     # Example 2
     print(sol.climbStairs(3))  # Output: 3
+    
