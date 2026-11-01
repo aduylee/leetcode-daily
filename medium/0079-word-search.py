@@ -6,7 +6,7 @@ class Solution:
         m, n = len(board), len(board[0])
         L = len(word)
 
-        def dfs(r: c, c: int, idx: int) -> bool:
+        def dfs(r: int, c: int, idx: int) -> bool:
             # Nếu đã khớp hết tất cả các ký tự của word
             if idx == L:
                 return True
@@ -46,6 +46,6 @@ if __name__ == "__main__":
         ["S", "F", "C", "S"],
         ["A", "D", "E", "E"]
     ]
-    print(sol.exist(board, "ABCCED"))  # Output: True[cite: 3]
-    print(sol.exist(board, "SEE"))     # Output: True[cite: 3]
+    print(sol.exist(board, "ABCCED"))  # Output: True
+    print(sol.exist(board, "SEE"))     # Output: True
     print(sol.exist(board, "ABCB"))    # Output: False
